@@ -88,7 +88,7 @@ I choose Dart as I research langauge, and I am nearly newbie.Therefore finding i
 
 4. [flutter_carousel_slider](https://github.com/serenader2014/flutter_carousel_slider)
 
-   To be a attractive application, slider is good choose to go for. I also found the most popular slider libiray. However, this project seems not have active disscuion and the latest closed commit is at Jul 2, 2023.
+   To be a attractive application, slider is good choose to go for. I also found a popular slider libiray. However, this project seems not have active disscuion and the latest closed commit is at Jul 2, 2023.
 
    ![checklist_flutter_carousel_slider](./assets/checklist_flutter_carousel_slider.png)
 
@@ -98,6 +98,10 @@ I choose Dart as I research langauge, and I am nearly newbie.Therefore finding i
 
     The documentation provided by the community for the Bloc is comprehensive. However, despite the presence of translation buttons on the official website, many translations remain unavailable.
 
+    **Where I would start:** 
+  
+    I would like to use this translations to learn essienal  bloc api. There is page about [Flutter Bloc Concepts](https://bloclibrary.dev/flutter-bloc-concepts) where lists all api, and I think this will be the page I would like to work on for translation.
+  
   - fl_chart
   
     URL: https://github.com/imaNNeo/fl_chart/issues/1279
@@ -105,10 +109,6 @@ I choose Dart as I research langauge, and I am nearly newbie.Therefore finding i
     **Description of the issue:**
   
     This feature request is about the ability to dynamically change the `tooltipBgColor` , customized the background color of tooltips based on the `y` value of the line in the chart such as a black background for points below 0 and a white background for points above 0. 
-  
-    **Where I would start:** 
-  
-    I believe this feature is essential. This presents an opportunity to explore the source code of the line chart. At least, I would take time to look at the code.
   
   - easy_localization
   
@@ -133,7 +133,28 @@ After grasping the entire process, I started to learn the singleton pattern. Alt
 
 ## Week 10
 
-#to be done
+### CONTRIBUTE TO EXTERNAL COMMUNITY
+
+This week, I decided to work on Bloc for my contribution. It was an interesting process, especially when I initially felt like there was nothing I could do for this community. It felt perfect. Afterwards, I checked the issues labeled as documentation and reviewed what they were all about. I browsed the official website and discovered that even though they provide translations, none of them are available. Obviously, this is where I could make my contribution!
+
+![bloc_translation_dropdown](./assets/bloc_translation_dropdown.png)
+
+![bloc_language_not_spport](./assets/bloc_language_not_spport.png)
+
+After making this decision, I opened their [CONTRIBUTING.md](https://github.com/felangel/bloc/blob/master/CONTRIBUTING.md), where I found instructions for contributing translations.
+
+![bloc_ contribution_ guide](assets/bloc_ contribution_ guide.png)
+
+### Personal contributions on  [pattern library repository](https://github.com/nic-dgl104-winter-2024/pattern-library)
+
+- [Create an appropriate folder structure in the repository](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/1)
+- [Add Lua implementation for Singleton pattern](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/12)
+
+**Reflections**
+
+After I am similair with sigletion pattern by writing Singleton pattern in Javascript, I think I could practice more for this pattern and then I choose Lua to practice. The concept also is identical, but I need to learn base syntax of Lua. Interesting for me is Lua is not required any bracket and the whole code become neat, but I wonder would it be still this neat if writng thoudhound code.
+
+
 
 ## Week 11
 
