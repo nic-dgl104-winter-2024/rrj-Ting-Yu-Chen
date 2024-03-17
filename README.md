@@ -145,6 +145,8 @@ After making this decision, I opened their [CONTRIBUTING.md](https://github.com/
 
 ![bloc_ contribution_ guide](assets/bloc_ contribution_ guide.png)
 
+Since there are no translations available there,it still took me some time to get the translations running locally.  This is the first time I realized that official documents are maintained together with the source code. I thought they would be written and maintained separately from the code. I also explored their file structure; different projects involve different people creating their own file structures. Hence, this is why CONTRIBUTING.md is so important for a community
+
 ### Personal contributions on  [pattern library repository](https://github.com/nic-dgl104-winter-2024/pattern-library)
 
 - [Create an appropriate folder structure in the repository](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/1)
