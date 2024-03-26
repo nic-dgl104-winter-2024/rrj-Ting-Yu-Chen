@@ -160,7 +160,34 @@ After I am similair with sigletion pattern by writing Singleton pattern in Javas
 
 ## Week 11
 
-#to be done
+### Personal contributions on [pattern library repository](https://github.com/nic-dgl104-winter-2024/pattern-library)
+
+- [Add implementation / description of model view viewmodel (MVVM)](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/15) 
+- [Add Dart implementation for Observer pattern](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/7)
+
+The concept of observer is straightforward, but I am still learning dart so I spend most of time on how to make the data strict , or should I create jsut enum or implicaion interface (class)
+
+I've been using Vue.js as my front-end framework for three years. I learned its source code by writing code fragments while following tutorial videos. Implementing MVVM this time provides me with an opportunity to summarize and review Vue's core concepts. Although I rarely use methods like `new Proxy` and `Reflect` in my daily practice, having a better understanding of their basic usage makes it easier to come up with solutions.
+
+### CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
+
+This week, I started working on translating the RepositoryProvider sections. When I was learning this section, the concept of a repository seemed quite vague to me. In the web field, we often just use the term 'API' to refer to requesting data. However, in this field, I spent some time figuring out the differences between a service and a repository.
+
+Based on my learning knowledge, I differentiate them as follows: a service usually involves backend requests, while a repository typically handles data access and persistence. It could manage local data or even handle data received from a service.
+
+### FOLLOW-UP QUESTIONS AND REFLECTIONS
+
+The langauge I choose is Dart. Although it is not on the list of [multi-paradigmatic programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages), it is OOP capable.
+
+It supports OOP to the following extents
+
+**Classes and Objects**: Dart allows you to define classes and create objects based on those classes. Classes can have properties (fields) and methods.
+
+**Inheritance**: Dart supports single inheritance, meaning a class can inherit from only one superclass. Moreover, Dart also supports mixins, which allow classes to reuse code from multiple sources.
+
+**Abstraction**: Dart supports abstraction, allowing you to define abstract classes and methods that provide a blueprint for other classes to implement.
+
+
 
 ## Week 12
 
