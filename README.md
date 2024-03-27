@@ -54,7 +54,7 @@ Learn more about  programming languages -  [Lua](https://www.lua.org/)
 
 - **What is the language used for?**
 
-  Lua is an embeddable, extensible, lightweight language.Lua has a small and clean API, making it suitable for various applications, particularly those where a small and efficient scripting language is needed.
+  Lua is an embeddable, extensible, lightweight language.Lua has a small and clean API, making it suitable for various applications, particularly those where a small and efficient scripting language is needed (Stieg, 2022).
 
   It is a  general-purpose programming. Lua has implemented  for games , embedded systems and scripting environments.
 
@@ -62,11 +62,11 @@ Learn more about  programming languages -  [Lua](https://www.lua.org/)
 
   - Scripting Environments
 
-    Common usage is combine Nigx with Lua.Lua is utilized as a scripting language within the nginx environment to provide flexibility and extensibility in configuring and customizing the behavior of the web server such as Logical Processing and Log Control
+    Common usage is combine Nigx with Lua.Lua is utilized as a scripting language within the nginx environment to provide flexibility and extensibility in configuring and customizing the behavior of the web server such as Logical Processing and Log Control.
 
   - Game Developers
 
-    developers can create games by Lua.There are some famous examples such as Angry Birds which is mostly written in Lua and the mobile payment app -Venmo was built using Lua.
+    developers can create games by Lua.There are some famous examples such as Angry Birds which is mostly written in Lua and the mobile payment app -Venmo was built using Lua (Stieg, 2022).
 
   - Software Developers
 
@@ -231,11 +231,11 @@ The langauge I choose is Dart. Although it is not on the list of [multi-paradigm
 
 It supports OOP to the following extents
 
-**Classes and Objects**: Dart allows you to define classes and create objects based on those classes. Classes can have properties (fields) and methods.
+**Classes and Objects**: Dart allows you to define classes and create objects based on those classes. Classes can have properties (fields) and methods (Classes,  n.d.).
 
-**Inheritance**: Dart supports single inheritance, meaning a class can inherit from only one superclass. Moreover, Dart also supports mixins, which allow classes to reuse code from multiple sources.
+**Inheritance**: Dart supports single inheritance, meaning a class can inherit from only one superclass. Moreover, Dart also supports mixins, which allow classes to reuse code from multiple sources (Extend,  n.d.).
 
-**Abstraction**: Dart supports abstraction, allowing you to define abstract classes and methods that provide a blueprint for other classes to implement.
+**Abstraction**: Dart supports abstraction, allowing you to define abstract classes and methods that provide a blueprint for other classes to implement (Class modifiers,  n.d.).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -253,4 +253,16 @@ This week, I finished my translation and created a PR in the Bloc repository. It
 
 # Reference
 
-[1] Cory Stieg (2022 11 06). Why Lua Is So Popular — & What You Can Build With It. Codecademy https://www.codecademy.com/resources/blog/what-is-lua-programming-language-used-for/
+​	Classes (n.d.). Dart. https://dart.dev/language/classes#:~:text=Dart%20is%20an%20object%2Doriented,classes%20and%20mixin%2Dbased%20inheritance.
+
+​	Class modifiers (n.d.). Dart. https://dart.dev/language/class-modifiers
+
+​	Cory Stieg (2022 11 06). Why Lua Is So Popular — & What You Can Build With It. Codecademy https://www.codecademy.com/resources/blog/what-is-lua-programming-language-used-for/
+
+​	Extend (n.d.). Dart. https://dart.dev/language/extend
+
+
+
+Chat GPT for grammar check purpose:
+
+https://chat.openai.com/share/04e33390-87ba-48aa-ad1c-3017e13baf98
