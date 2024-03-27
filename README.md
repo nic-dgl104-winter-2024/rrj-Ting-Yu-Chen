@@ -1,10 +1,50 @@
 # Research and Reflection Journal
 
+<a name="readme-top"></a>
+
+List of  work completed for [pattern library repository](https://github.com/nic-dgl104-winter-2024/pattern-library) 
+
+- Add skeleton outline to README.md
+  Github: https://github.com/nic-dgl104-winter-2024/pattern-library/pull/18
+
+  <p align="left">(<a href="#week-9">scroll to the reflection</a>)</p>
+
+- Add JavaScript implementation for Singleton pattern
+
+  Github link : https://github.com/nic-dgl104-winter-2024/pattern-library/pull/18
+
+  <p align="left">(<a href="#week-9">scroll to the reflection</a>)</p>
+
+- Create an appropriate folder structure in the repository
+  Github: https://github.com/nic-dgl104-winter-2024/pattern-library/issues/1
+
+  <p align="left">(<a href="#week-10">scroll to the reflection</a>)</p>
+
+- Add Lua implementation for Singleton pattern
+
+  Github: https://github.com/nic-dgl104-winter-2024/pattern-library/pull/33
+
+  <p align="left">(<a href="#week-10">scroll to the reflection</a>)</p>
+
+- Add implementation / description of model view viewmodel (MVVM)
+  Github: https://github.com/nic-dgl104-winter-2024/pattern-library/pull/58
+
+  <p align="left">(<a href="#week-11">scroll to the reflection</a>)</p>
+
+- Add Dart implementation for Observer pattern
+
+  Github:  https://github.com/nic-dgl104-winter-2024/pattern-library/pull/56
+
+  <p align="left">(<a href="##week-11">scroll to the reflection</a>)</p>
+
+- Add Javascript implementation of Template pattern
+  Github: https://github.com/nic-dgl104-winter-2024/pattern-library/pull/88
+
+  <p align="left">(<a href="##week-12">scroll to the reflection</a>)</p>
+
 
 
 ## Week 8
-
-
 
 ### Activities:
 
@@ -55,7 +95,7 @@ I have learned that it's possible to combine different languages for a project. 
 
 I chose **[Dart](https://dart.dev/)** as my Community Code project language. I have 3 years of experience with Javascript, but it has mostly been limited to web development within browsers (although we can use Electron for desktop applications). Last year, I decided to expand my skills and explore a mobile language. I did consider native mobile languages such as Swift. However, I view mobile development as a secondary skill, so a native language would require too much effort than I expected. Initially, I learned React Native since it is based on Javascript. Later, I encountered some issues that the community had no plans to fix. Meanwhile, I discovered Flutter, created by Google. I found its coding approach interesting, and it is supported by many libraries. In a nutshell, I chose Dart for my assignment. Although I am still torn between Flutter and React Native, I can use this assignment to delve into Dart.
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Week 9
 
@@ -120,6 +160,8 @@ I choose Dart as I research langauge, and I am nearly newbie.Therefore finding i
 
 This week I try to get involve to be a contributor for a project. Significant takeaway here is I think I am getting into the flow different people contribute to a project. It is total refresh and cool for me.
 
+<a name="week-9"></a>
+
 #### Personal contributions on  [pattern library repository](https://github.com/nic-dgl104-winter-2024/pattern-library)
 
 - [Add skeleton outline to README.md](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/16) 
@@ -130,6 +172,8 @@ This week I try to get involve to be a contributor for a project. Significant ta
 I was not familiar with the actual workflow for contributions, but now I am getting used to it. Most of the time, I spend my time understanding the structure, and sometimes communication can take up half of the processing time to ensure everyone is on the same page.
 
 After grasping the entire process, I started to learn the singleton pattern. Although I had learned this pattern before, I used this opportunity to review it. Initially, I preferred understanding the conditions under which I could use this pattern rather than focusing on how to write it. Since the reason I learn these patterns is to make my project more well-organized, there is no point in understanding a pattern without knowing how to use it. For this coding task, the first step is to analyze the real conditions under which I can implement the singleton pattern. The second step is to learn how to write the pattern, and finally, to implement the pattern in a real case.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Week 10
 
@@ -147,6 +191,8 @@ After making this decision, I opened their [CONTRIBUTING.md](https://github.com/
 
 Since there are no translations available there,it still took me some time to get the translations running locally.  This is the first time I realized that official documents are maintained together with the source code. I thought they would be written and maintained separately from the code. I also explored their file structure; different projects involve different people creating their own file structures. Hence, this is why CONTRIBUTING.md is so important for a community
 
+<a name="week-10"></a>
+
 ### Personal contributions on  [pattern library repository](https://github.com/nic-dgl104-winter-2024/pattern-library)
 
 - [Create an appropriate folder structure in the repository](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/1)
@@ -158,7 +204,11 @@ After I am similair with sigletion pattern by writing Singleton pattern in Javas
 
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Week 11
+
+<a name="week-11"></a>
 
 ### Personal contributions on [pattern library repository](https://github.com/nic-dgl104-winter-2024/pattern-library)
 
@@ -187,13 +237,19 @@ It supports OOP to the following extents
 
 **Abstraction**: Dart supports abstraction, allowing you to define abstract classes and methods that provide a blueprint for other classes to implement.
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Week 12
 
-#to be done
+### Personal contributions on [pattern library repository](https://github.com/nic-dgl104-winter-2024/pattern-library)
 
+- [Add Javascript implementation of Template pattern](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/57)
 
+his week, I explored the Template pattern, which is new to me. However, when I implemented it, I wondered if it truly qualifies as a pattern, as it seems similar to inheritance.One takeaway from this process is learning how to enforce method overriding in the child class by throwing an error in the parent class. This ensures that if the child class does not override the method, an error will be displayed.
+
+### CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
+
+This week, I finished my translation and created a PR in the Bloc repository. It is a significant step for me to actively engage in a repository. Based on this experience, I would try to contribute more translations to this repository, as it allows me to learn while translating.
 
 # Reference
 
