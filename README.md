@@ -265,4 +265,4 @@ This week, I finished my translation and created a PR in the Bloc repository. It
 
 Chat GPT for grammar check purpose:
 
-https://chat.openai.com/share/04e33390-87ba-48aa-ad1c-3017e13baf98
+https://chat.openai.com/share/9846856b-10f0-4823-9de4-ff5b145f943c
