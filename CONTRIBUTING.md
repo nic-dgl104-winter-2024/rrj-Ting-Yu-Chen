@@ -46,7 +46,7 @@ In summary, I enjoyed the translation process because it is the library I am lea
 
 ## Detailed discussion of code review and outcomes:
 
-
+I conducted a review with **Ravinder Singh**. Initially, he assumed that the translation might involve some coding approach. Fortunately, in this repository, contributors only need to replace words without updating any code. It's not surprising that people think this way because that's what I , in first place, thought as well, but eventually realized that everyone could contribute without providing any code! 
 
 ## **Next step:** 
 
@@ -56,4 +56,10 @@ I might consider to really push request for this contribution.
 
 I actualy create a issue to require if my tranlation is acceptable as it only involved one page.
 
-![Snipaste_2024-03-25_16-25-02](/Users/ting/Desktop/Snipaste_2024-03-25_16-25-02.png)
+![Snipaste_2024-03-25_16-25-02](./assets/offical_bloc_open_issue_snapshot.png)
+
+​	***Updated on Mar 26***
+
+​	I created a PR , and waiting for a review
+
+![offical_bloc_pr_snapshot](./assets/offical_bloc_pr_snapshot.png)
