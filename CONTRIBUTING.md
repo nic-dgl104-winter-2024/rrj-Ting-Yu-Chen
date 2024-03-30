@@ -58,8 +58,15 @@ I actualy create a issue to require if my tranlation is acceptable as it only in
 
 ![Snipaste_2024-03-25_16-25-02](./assets/offical_bloc_open_issue_snapshot.png)
 
-​	***Updated on Mar 26***
+***Updated on Mar 26***
 
-​	I created a PR , and waiting for a review
+I created a PR , and waiting for a review
+
+***Updated on Mar 30***
+
+I update the document again for clean format. Somtimes it happens when I am to concertrated on content but forget to run Prettier tool on vscode for code style issues. 
 
 ![offical_bloc_pr_snapshot](./assets/offical_bloc_pr_snapshot.png)
+
+
+

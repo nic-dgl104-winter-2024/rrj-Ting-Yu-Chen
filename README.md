@@ -118,7 +118,7 @@ I choose Dart as I research langauge, and I am nearly newbie.Therefore finding i
 
 2. [fl_chart](https://github.com/imaNNeo/fl_chart)
 
-    I have been used [Apache ECharts](https://echarts.apache.org/) to deal with most of chart tasks on website. It works really well, and it provide many customized features. On the mobile side,  I am also wondering any customized charts available. Here is the libray I found most popular. However they don't support enough chart type , for example : gauge. Although I saw a issue with a request feature label about that but the issue has been opened sinc 2020.
+    I have been used [Apache ECharts](https://echarts.apache.org/) to deal with most of chart tasks on website. It works really well, and it provide many customized features. On the mobile side,  I am also wondering any customized charts available. Here is the libray I found most popular. However,in my opinion, they don't support enough chart type , for example : gauge. Although I saw a issue with a request feature label about that but the issue has been opened sinc 2020.
 
    ![checklist_fl_chart](./assets/checklist_fl_chart.png)
 
@@ -158,7 +158,7 @@ I choose Dart as I research langauge, and I am nearly newbie.Therefore finding i
 
 ##### Reflection:
 
-This week I try to get involve to be a contributor for a project. Significant takeaway here is I think I am getting into the flow different people contribute to a project. It is total refresh and cool for me.
+This week I try to get involve to be a contributor for a project. Significant takeaway here is I think I am getting into the flow different people contribute to a project. It is total refresh and cool for me. 
 
 <a name="week-9"></a>
 
